@@ -1,2 +1,2 @@
-# touch-algorithm
-rectangles change color when touched by the moving rectangle
+# p5.play-boilerplate
+Boiler plate for p5.play
